@@ -4,7 +4,7 @@
 ## Related Master Thesis
 
 This repository shows the results of the master thesis Classification of
-Roof Materials from Aerial Images Using Machine Learning Methods by Moritz Niederer. The master thesis was obtained at the Saarland University of Applied Sciences(htw saar) in the course of studies Practical Computer Science of the Faculty of Engineering. It was supervised and reviewed by Prof. Dr.-Ing. Klaus Berberich and Prof. Dr. Peter Birkner.
+Roof Materials from Aerial Images Using Machine Learning Methods by Moritz Niederer. The master thesis was obtained at the Saarland University of Applied Sciences (htw saar) in the course of studies Practical Computer Science of the Faculty of Engineering. It was supervised and reviewed by Prof. Dr.-Ing. Klaus Berberich and Prof. Dr.-Ing. Peter Birkner.
 
 
 
