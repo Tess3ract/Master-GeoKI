@@ -42,3 +42,19 @@ the input features and enables us to combine the predictions of multiple CNNs wi
 data.
 We evaluate the performance of our approach with cross validation and an realistic use
 case example.
+
+## Content of the Repository
+This repository contains four Jupyter Notebooks:
+
+### Preprocessing_main_data.ipynb
+This notebook shows the preprocessing process of the data. This involves sending requests to a WMS server to obtain the orthophotos and applying filtering and feature generation techniques and extracting the roof images from orthophotos.
+
+###  CNN_From_Scratch.ipynb
+This notebook shows the implementation and training process of the CNN trained from scratch.
+
+###  CNN_Transfer_Learning.ipynb
+This notebook shows the implementation and training process of the CNN with Transfer Learning.
+
+### GBDT.ipynb
+This notebook shows the implementation and training of the gradient-boosted decision tree model. Additionally, we evaluate and select features to achieve optimal results in our GBDT model.
+
